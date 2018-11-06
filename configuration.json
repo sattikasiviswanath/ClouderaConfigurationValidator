@@ -1,0 +1,24 @@
+{
+	"hosts": [
+		{
+			"host": "192.168.188.38",
+			"username": "cloudera",
+			"password": "cloudera"
+		},
+		{
+			"host": "192.168.122.1",
+			"username": "kasi",
+			"password": "kasi"
+		},
+		{
+			"host": "192.168.188.45",
+			"username": "satti",
+			"password": "satti"
+		},
+		{
+			"host": "192.168.188.46",
+			"username": "kasi",
+			"password": "kasi"
+		}
+	]
+}
